@@ -13,7 +13,7 @@ if Operation == "+":
 
 elif Operation == "-":
     print("The result is:")
-    print(number_one - number_two)
+    print(number_one - number_two)  
     
 elif Operation == "*":
     print("The result is:")
